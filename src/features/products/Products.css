@@ -1,0 +1,10 @@
+.productImage {
+    width: 150px;
+    height: 150px;
+    margin-right: 10px;
+  }
+  
+  .size {
+    display: flex;
+    flex-direction: row;
+  }
